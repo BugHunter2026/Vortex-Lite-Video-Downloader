@@ -37,7 +37,7 @@ English 🇬🇧 | German 🇩🇪 | French 🇫🇷 | Spanish 🇪🇸 | Italia
 📦 Zero-Install Portability
 Vortex Lite is an "out-of-the-box" solution. No installation or complex system setup is required.
 
-Download the Vortex_Lite_v1.5.2.zip from the Releases section.
+Download the Vortex_Lite_v1.5.1.zip from the Releases section.
 
 Extract the ZIP to any folder.
 
