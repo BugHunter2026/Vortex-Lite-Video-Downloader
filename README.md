@@ -54,3 +54,5 @@ Self-Contained: All dependencies (like FFmpeg) are bundled within the EXE file, 
 
 ⚖️ Legal Disclaimer
 This software is intended for personal use and archiving only. Users are responsible for respecting the copyright and Terms of Service of the platforms they access.
+
+Usage at Your Own Risk: This software is provided "as is", without warranty of any kind, express or implied. In no event shall the author be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
