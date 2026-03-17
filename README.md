@@ -1,9 +1,5 @@
-🛡️ Vortex Lite Video Downloader v1.5.2
+🛡️ Vortex Lite Video Downloader v1.5.1
 Vortex Lite is a specialized, safety-conscious media extraction tool for Windows. Designed for users who prioritize digital safety and compliance, it provides a curated environment to archive content from the world's most popular social media platforms.
-
-☕ Support the Developer
-Vortex Lite is a passion project built as a hobby to provide the community with clean, ad-free software. If this tool provides value to you or your family, consider supporting future updates with a coffee!
-Buy me a Coffee: https://ko-fi.com/bughunter
 
 🚀 Concept: Safety by Design
 Unlike unrestricted downloaders, Vortex Lite follows a strict compliance-first approach. It is ideal for family or professional environments where only moderated social content should be accessed.
@@ -45,7 +41,7 @@ Download the Vortex_Lite_v1.5.2.zip from the Releases section.
 
 Extract the ZIP to any folder.
 
-Launch Vortex_Lite_v1.5.2.exe and start downloading safely.
+Launch Vortex_Lite_v1.5.1.exe and start downloading safely.
 
 🛡️ Privacy & Security
 Privacy-First: Vortex Lite does not collect personal information or transmit data about your downloads to external servers.
